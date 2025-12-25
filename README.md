@@ -18,7 +18,7 @@ A full-stack web application that matches students with internships based on ski
 backend/
 - Express.js server
 - REST API endpoints
-- In-memory data handling
+- mongodb database
 - Service-based architecture
 
 frontend/
